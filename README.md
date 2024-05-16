@@ -1,4 +1,4 @@
-# Amazon Bestsellers Books Web Scraper
+# Bestsellers Books Web Scraper
 
 This Python script scrapes data from the Amazon Best Sellers Books section and exports it to a CSV file. The script retrieves information such as book names, authors, prices, ratings, and URLs for the best-selling books on Amazon.
 
